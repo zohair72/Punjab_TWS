@@ -7,12 +7,20 @@ from contextlib import asynccontextmanager
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from backend.config import settings
-from backend.routes.health import router as health_router
-from backend.routes.methodology import router as methodology_router
-from backend.routes.summary import router as summary_router
-from backend.routes.timeline import router as timeline_router
-from backend.services.data_loader import data_loader
+try:
+    from backend.config import settings
+    from backend.routes.health import router as health_router
+    from backend.routes.methodology import router as methodology_router
+    from backend.routes.summary import router as summary_router
+    from backend.routes.timeline import router as timeline_router
+    from backend.services.data_loader import data_loader
+except ImportError:  # pragma: no cover - supports Render/service-root execution inside backend/
+    from config import settings
+    from routes.health import router as health_router
+    from routes.methodology import router as methodology_router
+    from routes.summary import router as summary_router
+    from routes.timeline import router as timeline_router
+    from services.data_loader import data_loader
 
 
 # Windows Proactor pipes can emit noisy ConnectionResetError traces on client
