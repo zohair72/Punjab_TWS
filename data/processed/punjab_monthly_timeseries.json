@@ -1,0 +1,2272 @@
+[
+  {
+    "date": "2002-04-01",
+    "year": 2002,
+    "month": 4,
+    "grace_twsa_cm": 4.455740992143796,
+    "gldas_precip": 15.796713674024941,
+    "gldas_soil_moisture": 356.2306394908092,
+    "gldas_et": 21.35215201285729,
+    "gldas_air_temp": 27.831148323560644
+  },
+  {
+    "date": "2002-05-01",
+    "year": 2002,
+    "month": 5,
+    "grace_twsa_cm": 4.3850162652776215,
+    "gldas_precip": 18.95112743402745,
+    "gldas_soil_moisture": 350.57587731264096,
+    "gldas_et": 12.315642054492045,
+    "gldas_air_temp": 33.42632645501585
+  },
+  {
+    "date": "2002-07-01",
+    "year": 2002,
+    "month": 7,
+    "grace_twsa_cm": 4.3873927590629584,
+    "gldas_precip": 33.08531602455063,
+    "gldas_soil_moisture": 364.22021285297467,
+    "gldas_et": 30.07544372024073,
+    "gldas_air_temp": 36.35025389604802
+  },
+  {
+    "date": "2002-08-01",
+    "year": 2002,
+    "month": 8,
+    "grace_twsa_cm": 4.274524616157175,
+    "gldas_precip": 58.541694082204984,
+    "gldas_soil_moisture": 373.70096031568846,
+    "gldas_et": 37.02027744527544,
+    "gldas_air_temp": 33.76816488021824
+  },
+  {
+    "date": "2002-09-01",
+    "year": 2002,
+    "month": 9,
+    "grace_twsa_cm": 2.420718908304923,
+    "gldas_precip": 45.81425974294301,
+    "gldas_soil_moisture": 387.4661350010829,
+    "gldas_et": 43.19516757818537,
+    "gldas_air_temp": 29.30703753553146
+  },
+  {
+    "date": "2002-10-01",
+    "year": 2002,
+    "month": 10,
+    "grace_twsa_cm": 1.3787568841987006,
+    "gldas_precip": 4.647001056092372,
+    "gldas_soil_moisture": 373.23974950115087,
+    "gldas_et": 21.12462926276149,
+    "gldas_air_temp": 25.434268021532358
+  },
+  {
+    "date": "2002-11-01",
+    "year": 2002,
+    "month": 11,
+    "grace_twsa_cm": 2.601422605040421,
+    "gldas_precip": 5.538059368816578,
+    "gldas_soil_moisture": 364.53390203734176,
+    "gldas_et": 10.173046486664346,
+    "gldas_air_temp": 19.496142627590054
+  },
+  {
+    "date": "2002-12-01",
+    "year": 2002,
+    "month": 12,
+    "grace_twsa_cm": 2.747457044525889,
+    "gldas_precip": 9.02395212596871,
+    "gldas_soil_moisture": 361.05831683146545,
+    "gldas_et": 8.619534459996231,
+    "gldas_air_temp": 14.829259601586722
+  },
+  {
+    "date": "2003-01-01",
+    "year": 2003,
+    "month": 1,
+    "grace_twsa_cm": 3.1610194139438046,
+    "gldas_precip": 7.104709405245386,
+    "gldas_soil_moisture": 358.431890372064,
+    "gldas_et": 10.677978744978194,
+    "gldas_air_temp": 13.685899362108756
+  },
+  {
+    "date": "2003-02-01",
+    "year": 2003,
+    "month": 2,
+    "grace_twsa_cm": 5.885581771188481,
+    "gldas_precip": 71.79902486340937,
+    "gldas_soil_moisture": 375.74209293811697,
+    "gldas_et": 23.824760007468143,
+    "gldas_air_temp": 16.187795197379522
+  },
+  {
+    "date": "2003-03-01",
+    "year": 2003,
+    "month": 3,
+    "grace_twsa_cm": 4.792171336945707,
+    "gldas_precip": 37.22524771636612,
+    "gldas_soil_moisture": 388.34620180265244,
+    "gldas_et": 51.03709516824923,
+    "gldas_air_temp": 20.902151114792485
+  },
+  {
+    "date": "2003-04-01",
+    "year": 2003,
+    "month": 4,
+    "grace_twsa_cm": 5.387846554514653,
+    "gldas_precip": 22.108767637929216,
+    "gldas_soil_moisture": 377.2835451358923,
+    "gldas_et": 35.89120553575277,
+    "gldas_air_temp": 27.84452652918547
+  },
+  {
+    "date": "2003-06-01",
+    "year": 2003,
+    "month": 6,
+    "grace_twsa_cm": 6.647993358677707,
+    "gldas_precip": 33.25735748566454,
+    "gldas_soil_moisture": 363.9354577787708,
+    "gldas_et": 19.575502675903806,
+    "gldas_air_temp": 36.401765973450104
+  },
+  {
+    "date": "2003-07-01",
+    "year": 2003,
+    "month": 7,
+    "grace_twsa_cm": 7.636230885654914,
+    "gldas_precip": 129.77921971891885,
+    "gldas_soil_moisture": 409.919000990953,
+    "gldas_et": 59.92228132093172,
+    "gldas_air_temp": 32.77320295558258
+  },
+  {
+    "date": "2003-08-01",
+    "year": 2003,
+    "month": 8,
+    "grace_twsa_cm": 7.13294265835721,
+    "gldas_precip": 109.93680121763856,
+    "gldas_soil_moisture": 448.72177533005095,
+    "gldas_et": 66.00650061730775,
+    "gldas_air_temp": 32.54222552234424
+  },
+  {
+    "date": "2003-09-01",
+    "year": 2003,
+    "month": 9,
+    "grace_twsa_cm": 4.819949550126781,
+    "gldas_precip": 39.14180091347718,
+    "gldas_soil_moisture": 461.90616707713974,
+    "gldas_et": 63.7829290242964,
+    "gldas_air_temp": 30.898012865889562
+  },
+  {
+    "date": "2003-10-01",
+    "year": 2003,
+    "month": 10,
+    "grace_twsa_cm": 2.7215306002599045,
+    "gldas_precip": 1.5184651473352906,
+    "gldas_soil_moisture": 427.3048006449648,
+    "gldas_et": 33.672265611708745,
+    "gldas_air_temp": 25.04202935889185
+  },
+  {
+    "date": "2003-11-01",
+    "year": 2003,
+    "month": 11,
+    "grace_twsa_cm": 2.8912163293857955,
+    "gldas_precip": 7.496956873400403,
+    "gldas_soil_moisture": 407.5685192467415,
+    "gldas_et": 14.858040771889481,
+    "gldas_air_temp": 17.983654650673355
+  },
+  {
+    "date": "2003-12-01",
+    "year": 2003,
+    "month": 12,
+    "grace_twsa_cm": 2.861664149895038,
+    "gldas_precip": 4.613377670910222,
+    "gldas_soil_moisture": 399.73556010484765,
+    "gldas_et": 9.765501654618276,
+    "gldas_air_temp": 14.531612120028496
+  },
+  {
+    "date": "2004-02-01",
+    "year": 2004,
+    "month": 2,
+    "grace_twsa_cm": 1.7843541764854645,
+    "gldas_precip": 11.228313152839892,
+    "gldas_soil_moisture": 396.2280656181703,
+    "gldas_et": 30.76450796849907,
+    "gldas_air_temp": 17.226811676392543
+  },
+  {
+    "date": "2004-03-01",
+    "year": 2004,
+    "month": 3,
+    "grace_twsa_cm": -0.14714600266322517,
+    "gldas_precip": 3.4909861956678547,
+    "gldas_soil_moisture": 370.1584008315864,
+    "gldas_et": 28.34042392010529,
+    "gldas_air_temp": 24.865659892138016
+  },
+  {
+    "date": "2004-04-01",
+    "year": 2004,
+    "month": 4,
+    "grace_twsa_cm": -1.1174262904384014,
+    "gldas_precip": 27.375051416897943,
+    "gldas_soil_moisture": 358.9344584832881,
+    "gldas_et": 19.790105401286734,
+    "gldas_air_temp": 29.483817489409702
+  },
+  {
+    "date": "2004-05-01",
+    "year": 2004,
+    "month": 5,
+    "grace_twsa_cm": -2.8514409986886196,
+    "gldas_precip": 19.816338951614433,
+    "gldas_soil_moisture": 361.1389927897158,
+    "gldas_et": 17.80589757477674,
+    "gldas_air_temp": 33.43669371414733
+  },
+  {
+    "date": "2004-06-01",
+    "year": 2004,
+    "month": 6,
+    "grace_twsa_cm": -2.7309795464984385,
+    "gldas_precip": 53.57307229654174,
+    "gldas_soil_moisture": 373.9628160383763,
+    "gldas_et": 39.20298353004865,
+    "gldas_air_temp": 35.68785696098515
+  },
+  {
+    "date": "2004-07-01",
+    "year": 2004,
+    "month": 7,
+    "grace_twsa_cm": -1.696227938141822,
+    "gldas_precip": 57.99428394065291,
+    "gldas_soil_moisture": 381.45039416699586,
+    "gldas_et": 38.18783231985147,
+    "gldas_air_temp": 35.738985529775746
+  },
+  {
+    "date": "2004-08-01",
+    "year": 2004,
+    "month": 8,
+    "grace_twsa_cm": -1.7725387128853718,
+    "gldas_precip": 91.73174063351959,
+    "gldas_soil_moisture": 421.05977803621226,
+    "gldas_et": 64.65270330534221,
+    "gldas_air_temp": 32.68202112397637
+  },
+  {
+    "date": "2004-09-01",
+    "year": 2004,
+    "month": 9,
+    "grace_twsa_cm": -3.41942213015921,
+    "gldas_precip": 22.329819595098172,
+    "gldas_soil_moisture": 404.10581244421354,
+    "gldas_et": 41.911645999965906,
+    "gldas_air_temp": 31.440650207821115
+  },
+  {
+    "date": "2004-10-01",
+    "year": 2004,
+    "month": 10,
+    "grace_twsa_cm": -3.802914082097013,
+    "gldas_precip": 23.902093526764286,
+    "gldas_soil_moisture": 393.3784723390878,
+    "gldas_et": 28.49135352878725,
+    "gldas_air_temp": 23.687183759133205
+  },
+  {
+    "date": "2004-11-01",
+    "year": 2004,
+    "month": 11,
+    "grace_twsa_cm": -4.2540469817633415,
+    "gldas_precip": 4.93212517086408,
+    "gldas_soil_moisture": 384.3256584464836,
+    "gldas_et": 14.07419406112247,
+    "gldas_air_temp": 20.237991523911823
+  },
+  {
+    "date": "2004-12-01",
+    "year": 2004,
+    "month": 12,
+    "grace_twsa_cm": -2.5328524247794237,
+    "gldas_precip": 11.554568485432648,
+    "gldas_soil_moisture": 377.73536571596196,
+    "gldas_et": 10.244484761732295,
+    "gldas_air_temp": 15.368019451611364
+  },
+  {
+    "date": "2005-01-01",
+    "year": 2005,
+    "month": 1,
+    "grace_twsa_cm": 3.0081944458321153,
+    "gldas_precip": 34.26845001768445,
+    "gldas_soil_moisture": 386.7198793360971,
+    "gldas_et": 18.923760147568483,
+    "gldas_air_temp": 11.772948673862205
+  },
+  {
+    "date": "2005-02-01",
+    "year": 2005,
+    "month": 2,
+    "grace_twsa_cm": 6.26944555833524,
+    "gldas_precip": 69.98301942256991,
+    "gldas_soil_moisture": 423.8450458366489,
+    "gldas_et": 29.56306400397035,
+    "gldas_air_temp": 13.728098146308847
+  },
+  {
+    "date": "2005-03-01",
+    "year": 2005,
+    "month": 3,
+    "grace_twsa_cm": 3.9804771554357976,
+    "gldas_precip": 70.42576715078206,
+    "gldas_soil_moisture": 439.45957306203667,
+    "gldas_et": 58.529068908984996,
+    "gldas_air_temp": 21.070287833202425
+  },
+  {
+    "date": "2005-04-01",
+    "year": 2005,
+    "month": 4,
+    "grace_twsa_cm": 4.589087131891721,
+    "gldas_precip": 15.501158806009615,
+    "gldas_soil_moisture": 416.19538963097176,
+    "gldas_et": 43.18157828629948,
+    "gldas_air_temp": 26.72361454098423
+  },
+  {
+    "date": "2005-05-01",
+    "year": 2005,
+    "month": 5,
+    "grace_twsa_cm": 2.344980386829496,
+    "gldas_precip": 27.496457090424606,
+    "gldas_soil_moisture": 402.63050926816834,
+    "gldas_et": 33.25712453642864,
+    "gldas_air_temp": 30.398885378790034
+  },
+  {
+    "date": "2005-06-01",
+    "year": 2005,
+    "month": 6,
+    "grace_twsa_cm": 5.158281577913956,
+    "gldas_precip": 15.784113432129146,
+    "gldas_soil_moisture": 393.32845004585243,
+    "gldas_et": 17.5951653130495,
+    "gldas_air_temp": 37.04519229583157
+  },
+  {
+    "date": "2005-07-01",
+    "year": 2005,
+    "month": 7,
+    "grace_twsa_cm": 4.070452540655152,
+    "gldas_precip": 123.74872447561371,
+    "gldas_soil_moisture": 427.45378794411374,
+    "gldas_et": 62.959087869978745,
+    "gldas_air_temp": 35.47117721211765
+  },
+  {
+    "date": "2005-08-01",
+    "year": 2005,
+    "month": 8,
+    "grace_twsa_cm": 3.526077335390539,
+    "gldas_precip": 43.79823098324667,
+    "gldas_soil_moisture": 443.05343289729046,
+    "gldas_et": 63.83985047302926,
+    "gldas_air_temp": 34.817263722066684
+  },
+  {
+    "date": "2005-09-01",
+    "year": 2005,
+    "month": 9,
+    "grace_twsa_cm": 0.8796227182714005,
+    "gldas_precip": 59.603181145870956,
+    "gldas_soil_moisture": 433.95911046271596,
+    "gldas_et": 57.94425807653436,
+    "gldas_air_temp": 31.882325299250983
+  },
+  {
+    "date": "2005-10-01",
+    "year": 2005,
+    "month": 10,
+    "grace_twsa_cm": -0.6813545789589217,
+    "gldas_precip": 4.328989981400506,
+    "gldas_soil_moisture": 407.468407306518,
+    "gldas_et": 27.595708477170188,
+    "gldas_air_temp": 26.911298338576344
+  },
+  {
+    "date": "2005-11-01",
+    "year": 2005,
+    "month": 11,
+    "grace_twsa_cm": -1.2324805283795266,
+    "gldas_precip": 1.5921338954317092,
+    "gldas_soil_moisture": 390.73224402924444,
+    "gldas_et": 9.811066721587085,
+    "gldas_air_temp": 20.145580000851496
+  },
+  {
+    "date": "2005-12-01",
+    "year": 2005,
+    "month": 12,
+    "grace_twsa_cm": -0.4094313832973772,
+    "gldas_precip": 1.003685890828799,
+    "gldas_soil_moisture": 383.00542145235653,
+    "gldas_et": 6.681956937518003,
+    "gldas_air_temp": 15.278871395347288
+  },
+  {
+    "date": "2006-01-01",
+    "year": 2006,
+    "month": 1,
+    "grace_twsa_cm": -0.5068734800691976,
+    "gldas_precip": 20.820026866962806,
+    "gldas_soil_moisture": 384.1888563217904,
+    "gldas_et": 15.713877664896252,
+    "gldas_air_temp": 13.321133856829478
+  },
+  {
+    "date": "2006-02-01",
+    "year": 2006,
+    "month": 2,
+    "grace_twsa_cm": -0.5271734902606463,
+    "gldas_precip": 11.566908482189195,
+    "gldas_soil_moisture": 377.09110859907923,
+    "gldas_et": 23.34497212456568,
+    "gldas_air_temp": 20.422054993811997
+  },
+  {
+    "date": "2006-03-01",
+    "year": 2006,
+    "month": 3,
+    "grace_twsa_cm": -1.1336573764611475,
+    "gldas_precip": 38.36103528766507,
+    "gldas_soil_moisture": 373.9438745307506,
+    "gldas_et": 38.56362183104579,
+    "gldas_air_temp": 21.481810376081764
+  },
+  {
+    "date": "2006-04-01",
+    "year": 2006,
+    "month": 4,
+    "grace_twsa_cm": -3.133609284604615,
+    "gldas_precip": 13.823604539369718,
+    "gldas_soil_moisture": 362.79734075246245,
+    "gldas_et": 19.513974167804054,
+    "gldas_air_temp": 28.789394013181706
+  },
+  {
+    "date": "2006-05-01",
+    "year": 2006,
+    "month": 5,
+    "grace_twsa_cm": -2.914470677680014,
+    "gldas_precip": 25.42844702229477,
+    "gldas_soil_moisture": 362.9265724585776,
+    "gldas_et": 27.05369373847405,
+    "gldas_air_temp": 36.58388735793056
+  },
+  {
+    "date": "2006-06-01",
+    "year": 2006,
+    "month": 6,
+    "grace_twsa_cm": -2.1550104721739745,
+    "gldas_precip": 44.51382944837169,
+    "gldas_soil_moisture": 362.6133261960005,
+    "gldas_et": 23.00916444527927,
+    "gldas_air_temp": 36.03007973415803
+  },
+  {
+    "date": "2006-07-01",
+    "year": 2006,
+    "month": 7,
+    "grace_twsa_cm": 1.5369332933717614,
+    "gldas_precip": 99.63039681581094,
+    "gldas_soil_moisture": 397.07041799024597,
+    "gldas_et": 50.77574355959171,
+    "gldas_air_temp": 36.331456663941744
+  },
+  {
+    "date": "2006-08-01",
+    "year": 2006,
+    "month": 8,
+    "grace_twsa_cm": 2.949582013047733,
+    "gldas_precip": 123.6216007228853,
+    "gldas_soil_moisture": 458.16899761008625,
+    "gldas_et": 76.46961483014609,
+    "gldas_air_temp": 33.400582215646374
+  },
+  {
+    "date": "2006-09-01",
+    "year": 2006,
+    "month": 9,
+    "grace_twsa_cm": -0.12061780445738797,
+    "gldas_precip": 43.21489188164212,
+    "gldas_soil_moisture": 454.4414835686797,
+    "gldas_et": 54.86037847424068,
+    "gldas_air_temp": 31.100361612626124
+  },
+  {
+    "date": "2006-10-01",
+    "year": 2006,
+    "month": 10,
+    "grace_twsa_cm": -0.9447102121872344,
+    "gldas_precip": 20.25604394589878,
+    "gldas_soil_moisture": 428.44571147022793,
+    "gldas_et": 35.99754792736191,
+    "gldas_air_temp": 26.82763329252691
+  },
+  {
+    "date": "2006-11-01",
+    "year": 2006,
+    "month": 11,
+    "grace_twsa_cm": 2.5298225627414603,
+    "gldas_precip": 18.72044544788754,
+    "gldas_soil_moisture": 420.52429476636627,
+    "gldas_et": 22.427504479024517,
+    "gldas_air_temp": 19.755508840598893
+  },
+  {
+    "date": "2006-12-01",
+    "year": 2006,
+    "month": 12,
+    "grace_twsa_cm": 2.7837066619828628,
+    "gldas_precip": 39.90953291094867,
+    "gldas_soil_moisture": 437.1228213154693,
+    "gldas_et": 22.612067973046535,
+    "gldas_air_temp": 13.924418208670613
+  },
+  {
+    "date": "2007-01-01",
+    "year": 2007,
+    "month": 1,
+    "grace_twsa_cm": 3.9617046009586185,
+    "gldas_precip": 2.6517474157550205,
+    "gldas_soil_moisture": 417.7995557012438,
+    "gldas_et": 22.859474506185883,
+    "gldas_air_temp": 12.632413789406847
+  },
+  {
+    "date": "2007-02-01",
+    "year": 2007,
+    "month": 2,
+    "grace_twsa_cm": 6.616869259969574,
+    "gldas_precip": 95.57162430060926,
+    "gldas_soil_moisture": 446.3446341908659,
+    "gldas_et": 38.26863655137407,
+    "gldas_air_temp": 15.556071790019143
+  },
+  {
+    "date": "2007-03-01",
+    "year": 2007,
+    "month": 3,
+    "grace_twsa_cm": 4.974098944305087,
+    "gldas_precip": 69.17486470318289,
+    "gldas_soil_moisture": 455.9221530221535,
+    "gldas_et": 66.54712120492098,
+    "gldas_air_temp": 19.82499433355398
+  },
+  {
+    "date": "2007-04-01",
+    "year": 2007,
+    "month": 4,
+    "grace_twsa_cm": 2.814314763757777,
+    "gldas_precip": 6.675248413740464,
+    "gldas_soil_moisture": 426.7313198120523,
+    "gldas_et": 43.23909968039417,
+    "gldas_air_temp": 30.471422631489844
+  },
+  {
+    "date": "2007-05-01",
+    "year": 2007,
+    "month": 5,
+    "grace_twsa_cm": 1.7839608911978837,
+    "gldas_precip": 14.793482247189125,
+    "gldas_soil_moisture": 404.61008684336116,
+    "gldas_et": 19.693470867427326,
+    "gldas_air_temp": 34.77192432586658
+  },
+  {
+    "date": "2007-06-01",
+    "year": 2007,
+    "month": 6,
+    "grace_twsa_cm": 5.424136613748051,
+    "gldas_precip": 84.3659132722221,
+    "gldas_soil_moisture": 411.98247588752474,
+    "gldas_et": 37.51750996400042,
+    "gldas_air_temp": 37.26582588619944
+  },
+  {
+    "date": "2007-07-01",
+    "year": 2007,
+    "month": 7,
+    "grace_twsa_cm": 4.598804416393699,
+    "gldas_precip": 103.57909850478822,
+    "gldas_soil_moisture": 458.3728118842813,
+    "gldas_et": 75.8835501248036,
+    "gldas_air_temp": 36.93328148488157
+  },
+  {
+    "date": "2007-08-01",
+    "year": 2007,
+    "month": 8,
+    "grace_twsa_cm": 2.660994131311148,
+    "gldas_precip": 55.62519329020958,
+    "gldas_soil_moisture": 460.41985015240544,
+    "gldas_et": 70.6656580496136,
+    "gldas_air_temp": 35.0043922635897
+  },
+  {
+    "date": "2007-09-01",
+    "year": 2007,
+    "month": 9,
+    "grace_twsa_cm": -0.6583073826268672,
+    "gldas_precip": 36.25482420999733,
+    "gldas_soil_moisture": 438.0500126034547,
+    "gldas_et": 54.74905263893533,
+    "gldas_air_temp": 32.674143858850954
+  },
+  {
+    "date": "2007-10-01",
+    "year": 2007,
+    "month": 10,
+    "grace_twsa_cm": -1.9046150219358684,
+    "gldas_precip": 0.02242889366529676,
+    "gldas_soil_moisture": 408.6185759897603,
+    "gldas_et": 24.939542691822652,
+    "gldas_air_temp": 25.26965925417879
+  },
+  {
+    "date": "2007-11-01",
+    "year": 2007,
+    "month": 11,
+    "grace_twsa_cm": -3.118092949557978,
+    "gldas_precip": 1.9529181362455899,
+    "gldas_soil_moisture": 391.90496022265734,
+    "gldas_et": 8.934240867597936,
+    "gldas_air_temp": 20.433008122815576
+  },
+  {
+    "date": "2007-12-01",
+    "year": 2007,
+    "month": 12,
+    "grace_twsa_cm": -0.866751198702114,
+    "gldas_precip": 6.308272783868331,
+    "gldas_soil_moisture": 388.5593702714275,
+    "gldas_et": 9.286640696090615,
+    "gldas_air_temp": 13.748596120686729
+  },
+  {
+    "date": "2008-01-01",
+    "year": 2008,
+    "month": 1,
+    "grace_twsa_cm": -0.27603621891073693,
+    "gldas_precip": 29.199012006598373,
+    "gldas_soil_moisture": 397.893595269764,
+    "gldas_et": 16.98349965541157,
+    "gldas_air_temp": 11.05868331447373
+  },
+  {
+    "date": "2008-02-01",
+    "year": 2008,
+    "month": 2,
+    "grace_twsa_cm": -0.20233160799140928,
+    "gldas_precip": 19.671454131471773,
+    "gldas_soil_moisture": 394.8678561508672,
+    "gldas_et": 29.90555096088081,
+    "gldas_air_temp": 14.316309194285813
+  },
+  {
+    "date": "2008-03-01",
+    "year": 2008,
+    "month": 3,
+    "grace_twsa_cm": -0.7849866966894351,
+    "gldas_precip": 5.601355419465749,
+    "gldas_soil_moisture": 370.3923713669125,
+    "gldas_et": 25.3472609255592,
+    "gldas_air_temp": 24.357169511207516
+  },
+  {
+    "date": "2008-04-01",
+    "year": 2008,
+    "month": 4,
+    "grace_twsa_cm": -2.3776376117411586,
+    "gldas_precip": 59.79661295653965,
+    "gldas_soil_moisture": 382.9659795312925,
+    "gldas_et": 44.56097705481399,
+    "gldas_air_temp": 28.181352609318395
+  },
+  {
+    "date": "2008-05-01",
+    "year": 2008,
+    "month": 5,
+    "grace_twsa_cm": -2.847009040644414,
+    "gldas_precip": 37.1259006369504,
+    "gldas_soil_moisture": 378.47426804872765,
+    "gldas_et": 29.530371355414193,
+    "gldas_air_temp": 34.86140053555758
+  },
+  {
+    "date": "2008-06-01",
+    "year": 2008,
+    "month": 6,
+    "grace_twsa_cm": -0.6873443555968204,
+    "gldas_precip": 86.0879371135876,
+    "gldas_soil_moisture": 398.25502098077146,
+    "gldas_et": 49.22263839172882,
+    "gldas_air_temp": 37.895891139868866
+  },
+  {
+    "date": "2008-07-01",
+    "year": 2008,
+    "month": 7,
+    "grace_twsa_cm": 2.7318106708746868,
+    "gldas_precip": 101.11148501765214,
+    "gldas_soil_moisture": 432.3778416649495,
+    "gldas_et": 66.23494273248572,
+    "gldas_air_temp": 37.06559299499446
+  },
+  {
+    "date": "2008-08-01",
+    "year": 2008,
+    "month": 8,
+    "grace_twsa_cm": 0.1525587422038693,
+    "gldas_precip": 122.55316079477743,
+    "gldas_soil_moisture": 485.6812474608229,
+    "gldas_et": 91.93110163934995,
+    "gldas_air_temp": 33.83633847670796
+  },
+  {
+    "date": "2008-09-01",
+    "year": 2008,
+    "month": 9,
+    "grace_twsa_cm": -1.1927289977681113,
+    "gldas_precip": 39.72829093109116,
+    "gldas_soil_moisture": 454.607979956131,
+    "gldas_et": 60.86095321224393,
+    "gldas_air_temp": 31.948324043551384
+  },
+  {
+    "date": "2008-10-01",
+    "year": 2008,
+    "month": 10,
+    "grace_twsa_cm": -2.9428055978907675,
+    "gldas_precip": 4.775177480982231,
+    "gldas_soil_moisture": 422.85430368702936,
+    "gldas_et": 30.121952914719238,
+    "gldas_air_temp": 27.705694282901902
+  },
+  {
+    "date": "2008-11-01",
+    "year": 2008,
+    "month": 11,
+    "grace_twsa_cm": -1.7328839454017102,
+    "gldas_precip": 2.1805872735593503,
+    "gldas_soil_moisture": 404.53437310650133,
+    "gldas_et": 12.067978747235,
+    "gldas_air_temp": 20.063132590324983
+  },
+  {
+    "date": "2008-12-01",
+    "year": 2008,
+    "month": 12,
+    "grace_twsa_cm": -0.9622368541008661,
+    "gldas_precip": 40.21921362037811,
+    "gldas_soil_moisture": 410.10237185984175,
+    "gldas_et": 15.200261370893578,
+    "gldas_air_temp": 16.188889479205425
+  },
+  {
+    "date": "2009-01-01",
+    "year": 2009,
+    "month": 1,
+    "grace_twsa_cm": -0.13773938680601272,
+    "gldas_precip": 28.684009300111054,
+    "gldas_soil_moisture": 423.26871953601227,
+    "gldas_et": 24.611844006384118,
+    "gldas_air_temp": 14.203004689945388
+  },
+  {
+    "date": "2009-02-01",
+    "year": 2009,
+    "month": 2,
+    "grace_twsa_cm": 0.17680875779643002,
+    "gldas_precip": 24.142943912009635,
+    "gldas_soil_moisture": 419.81289118024347,
+    "gldas_et": 35.935845059605754,
+    "gldas_air_temp": 16.989420350581867
+  },
+  {
+    "date": "2009-03-01",
+    "year": 2009,
+    "month": 3,
+    "grace_twsa_cm": 1.197944068507313,
+    "gldas_precip": 38.542722028278305,
+    "gldas_soil_moisture": 397.2759945007961,
+    "gldas_et": 45.82882384645026,
+    "gldas_air_temp": 22.502688262039133
+  },
+  {
+    "date": "2009-04-01",
+    "year": 2009,
+    "month": 4,
+    "grace_twsa_cm": -0.4050541412751254,
+    "gldas_precip": 39.53596298031484,
+    "gldas_soil_moisture": 404.5086376599672,
+    "gldas_et": 43.81901968795996,
+    "gldas_air_temp": 28.27507901722483
+  },
+  {
+    "date": "2009-05-01",
+    "year": 2009,
+    "month": 5,
+    "grace_twsa_cm": -3.2066432694458937,
+    "gldas_precip": 19.522830609971063,
+    "gldas_soil_moisture": 391.9761694120689,
+    "gldas_et": 24.78262753304043,
+    "gldas_air_temp": 34.95386861951152
+  },
+  {
+    "date": "2009-06-01",
+    "year": 2009,
+    "month": 6,
+    "grace_twsa_cm": -1.6785694002167466,
+    "gldas_precip": 15.661976389660975,
+    "gldas_soil_moisture": 386.35316668335474,
+    "gldas_et": 17.70113618843584,
+    "gldas_air_temp": 36.41452116061138
+  },
+  {
+    "date": "2009-07-01",
+    "year": 2009,
+    "month": 7,
+    "grace_twsa_cm": -3.3335061336909217,
+    "gldas_precip": 77.7322971122178,
+    "gldas_soil_moisture": 397.4688591981606,
+    "gldas_et": 51.39438876533801,
+    "gldas_air_temp": 37.96274697210924
+  },
+  {
+    "date": "2009-08-01",
+    "year": 2009,
+    "month": 8,
+    "grace_twsa_cm": -3.56851546355479,
+    "gldas_precip": 71.75599977859808,
+    "gldas_soil_moisture": 406.42286812050844,
+    "gldas_et": 59.744481250486054,
+    "gldas_air_temp": 36.369552986770266
+  },
+  {
+    "date": "2009-09-01",
+    "year": 2009,
+    "month": 9,
+    "grace_twsa_cm": -5.547818160516153,
+    "gldas_precip": 38.32199865967127,
+    "gldas_soil_moisture": 411.88332867842234,
+    "gldas_et": 54.7386184599871,
+    "gldas_air_temp": 32.55395917869528
+  },
+  {
+    "date": "2009-10-01",
+    "year": 2009,
+    "month": 10,
+    "grace_twsa_cm": -6.854505484181168,
+    "gldas_precip": 3.7817111785802453,
+    "gldas_soil_moisture": 386.6729349838553,
+    "gldas_et": 19.48565825715238,
+    "gldas_air_temp": 25.907189706834142
+  },
+  {
+    "date": "2009-11-01",
+    "year": 2009,
+    "month": 11,
+    "grace_twsa_cm": -6.577561843991049,
+    "gldas_precip": 4.5315556392232965,
+    "gldas_soil_moisture": 375.8323416023411,
+    "gldas_et": 7.02936453647731,
+    "gldas_air_temp": 19.10659442895337
+  },
+  {
+    "date": "2009-12-01",
+    "year": 2009,
+    "month": 12,
+    "grace_twsa_cm": -6.198058711241401,
+    "gldas_precip": 3.3035075551885247,
+    "gldas_soil_moisture": 373.8728544216935,
+    "gldas_et": 6.8198617247158575,
+    "gldas_air_temp": 14.34104450714197
+  },
+  {
+    "date": "2010-01-01",
+    "year": 2010,
+    "month": 1,
+    "grace_twsa_cm": -4.859680641666865,
+    "gldas_precip": 4.951618853337383,
+    "gldas_soil_moisture": 368.59881261262035,
+    "gldas_et": 8.872756209014069,
+    "gldas_air_temp": 13.64704506410224
+  },
+  {
+    "date": "2010-02-01",
+    "year": 2010,
+    "month": 2,
+    "grace_twsa_cm": -4.981507569824071,
+    "gldas_precip": 32.827336254979265,
+    "gldas_soil_moisture": 377.31076673149187,
+    "gldas_et": 21.946274753386568,
+    "gldas_air_temp": 16.321934608787004
+  },
+  {
+    "date": "2010-03-01",
+    "year": 2010,
+    "month": 3,
+    "grace_twsa_cm": -7.074421898771568,
+    "gldas_precip": 22.515162856764274,
+    "gldas_soil_moisture": 374.1398299862332,
+    "gldas_et": 33.35397282367865,
+    "gldas_air_temp": 24.73271145307987
+  },
+  {
+    "date": "2010-04-01",
+    "year": 2010,
+    "month": 4,
+    "grace_twsa_cm": -6.313544614223414,
+    "gldas_precip": 12.979235092681844,
+    "gldas_soil_moisture": 359.3157318686791,
+    "gldas_et": 14.489327060647035,
+    "gldas_air_temp": 31.008329191929004
+  },
+  {
+    "date": "2010-05-01",
+    "year": 2010,
+    "month": 5,
+    "grace_twsa_cm": -5.099998846472868,
+    "gldas_precip": 18.90156312293948,
+    "gldas_soil_moisture": 362.38284695492405,
+    "gldas_et": 20.750776034936255,
+    "gldas_air_temp": 34.695068604767876
+  },
+  {
+    "date": "2010-06-01",
+    "year": 2010,
+    "month": 6,
+    "grace_twsa_cm": -4.539787646419849,
+    "gldas_precip": 38.60718367229905,
+    "gldas_soil_moisture": 366.7701459791668,
+    "gldas_et": 26.98921533623093,
+    "gldas_air_temp": 36.60328261515654
+  },
+  {
+    "date": "2010-07-01",
+    "year": 2010,
+    "month": 7,
+    "grace_twsa_cm": 2.8446516728615086,
+    "gldas_precip": 200.49758784607957,
+    "gldas_soil_moisture": 400.1317273682194,
+    "gldas_et": 61.950391978374455,
+    "gldas_air_temp": 36.45690982118673
+  },
+  {
+    "date": "2010-08-01",
+    "year": 2010,
+    "month": 8,
+    "grace_twsa_cm": 2.3309410817982648,
+    "gldas_precip": 184.49055181630536,
+    "gldas_soil_moisture": 547.2214772109121,
+    "gldas_et": 113.89344957144294,
+    "gldas_air_temp": 32.958747067885774
+  },
+  {
+    "date": "2010-09-01",
+    "year": 2010,
+    "month": 9,
+    "grace_twsa_cm": -0.6474917719077034,
+    "gldas_precip": 45.02740429554285,
+    "gldas_soil_moisture": 518.7413257614359,
+    "gldas_et": 77.9489872438751,
+    "gldas_air_temp": 30.815869653051504
+  },
+  {
+    "date": "2010-10-01",
+    "year": 2010,
+    "month": 10,
+    "grace_twsa_cm": -2.7807685506807114,
+    "gldas_precip": 4.323807653416248,
+    "gldas_soil_moisture": 467.19426198615696,
+    "gldas_et": 35.01220212426966,
+    "gldas_air_temp": 27.00387518792071
+  },
+  {
+    "date": "2010-11-01",
+    "year": 2010,
+    "month": 11,
+    "grace_twsa_cm": -2.645406694942688,
+    "gldas_precip": 3.9220980099428626,
+    "gldas_soil_moisture": 443.83118601567577,
+    "gldas_et": 16.701838221665223,
+    "gldas_air_temp": 19.725396475780524
+  },
+  {
+    "date": "2011-02-01",
+    "year": 2011,
+    "month": 2,
+    "grace_twsa_cm": 1.5429566976762008,
+    "gldas_precip": 56.47301766051813,
+    "gldas_soil_moisture": 422.41160426581246,
+    "gldas_et": 31.65658224120958,
+    "gldas_air_temp": 15.313790427888213
+  },
+  {
+    "date": "2011-03-01",
+    "year": 2011,
+    "month": 3,
+    "grace_twsa_cm": 2.521452834448809,
+    "gldas_precip": 27.361639565993844,
+    "gldas_soil_moisture": 425.8970503972632,
+    "gldas_et": 53.924468070589,
+    "gldas_air_temp": 21.632072243721378
+  },
+  {
+    "date": "2011-04-01",
+    "year": 2011,
+    "month": 4,
+    "grace_twsa_cm": -0.3211535548986673,
+    "gldas_precip": 39.08402187485994,
+    "gldas_soil_moisture": 410.9256858206528,
+    "gldas_et": 38.96070788154975,
+    "gldas_air_temp": 26.799079603446746
+  },
+  {
+    "date": "2011-07-01",
+    "year": 2011,
+    "month": 7,
+    "grace_twsa_cm": 0.9114043588878126,
+    "gldas_precip": 104.53579707177396,
+    "gldas_soil_moisture": 425.10978690136113,
+    "gldas_et": 60.57068012971842,
+    "gldas_air_temp": 36.51359412724797
+  },
+  {
+    "date": "2011-08-01",
+    "year": 2011,
+    "month": 8,
+    "grace_twsa_cm": 5.121586316181455,
+    "gldas_precip": 136.3696846538052,
+    "gldas_soil_moisture": 451.51131576746076,
+    "gldas_et": 78.25830633816773,
+    "gldas_air_temp": 33.72271795100153
+  },
+  {
+    "date": "2011-09-01",
+    "year": 2011,
+    "month": 9,
+    "grace_twsa_cm": 2.342984049318329,
+    "gldas_precip": 91.43842551349665,
+    "gldas_soil_moisture": 514.0476751544493,
+    "gldas_et": 89.18300641442352,
+    "gldas_air_temp": 30.82462753521985
+  },
+  {
+    "date": "2011-10-01",
+    "year": 2011,
+    "month": 10,
+    "grace_twsa_cm": 1.4035485975383883,
+    "gldas_precip": 11.573300655980786,
+    "gldas_soil_moisture": 473.50175936243727,
+    "gldas_et": 42.73830708353262,
+    "gldas_air_temp": 27.007045525672584
+  },
+  {
+    "date": "2011-12-01",
+    "year": 2011,
+    "month": 12,
+    "grace_twsa_cm": 0.23023605645657091,
+    "gldas_precip": 0.8087887277270955,
+    "gldas_soil_moisture": 433.77610564751683,
+    "gldas_et": 12.868417209986632,
+    "gldas_air_temp": 15.247905522230916
+  },
+  {
+    "date": "2012-01-01",
+    "year": 2012,
+    "month": 1,
+    "grace_twsa_cm": 0.7612293539953005,
+    "gldas_precip": 11.756586458578093,
+    "gldas_soil_moisture": 424.84200649809225,
+    "gldas_et": 17.61980014276605,
+    "gldas_air_temp": 12.093072972726933
+  },
+  {
+    "date": "2012-02-01",
+    "year": 2012,
+    "month": 2,
+    "grace_twsa_cm": 0.33421336155363607,
+    "gldas_precip": 22.03353616162221,
+    "gldas_soil_moisture": 416.93213300717235,
+    "gldas_et": 30.302757875091203,
+    "gldas_air_temp": 13.514388114868284
+  },
+  {
+    "date": "2012-03-01",
+    "year": 2012,
+    "month": 3,
+    "grace_twsa_cm": -0.6775871402543663,
+    "gldas_precip": 12.418100764871324,
+    "gldas_soil_moisture": 395.04661038842187,
+    "gldas_et": 32.196309722161786,
+    "gldas_air_temp": 20.759022471928084
+  },
+  {
+    "date": "2012-05-01",
+    "year": 2012,
+    "month": 5,
+    "grace_twsa_cm": -5.166043354958328,
+    "gldas_precip": 15.13807013485141,
+    "gldas_soil_moisture": 399.4514989937339,
+    "gldas_et": 24.600412163184014,
+    "gldas_air_temp": 34.20548433108454
+  },
+  {
+    "date": "2012-06-01",
+    "year": 2012,
+    "month": 6,
+    "grace_twsa_cm": -6.850154049044015,
+    "gldas_precip": 8.707798399659666,
+    "gldas_soil_moisture": 392.0298272635274,
+    "gldas_et": 10.860860144397243,
+    "gldas_air_temp": 37.8680448704316
+  },
+  {
+    "date": "2012-07-01",
+    "year": 2012,
+    "month": 7,
+    "grace_twsa_cm": -4.578733461225709,
+    "gldas_precip": 67.14809510583608,
+    "gldas_soil_moisture": 406.14779769593775,
+    "gldas_et": 44.00095748918752,
+    "gldas_air_temp": 38.35631551135129
+  },
+  {
+    "date": "2012-08-01",
+    "year": 2012,
+    "month": 8,
+    "grace_twsa_cm": 0.1256314016128198,
+    "gldas_precip": 103.67343610878427,
+    "gldas_soil_moisture": 421.0522654942108,
+    "gldas_et": 64.02772990284826,
+    "gldas_air_temp": 34.826728301225394
+  },
+  {
+    "date": "2012-11-01",
+    "year": 2012,
+    "month": 11,
+    "grace_twsa_cm": -4.294923762322655,
+    "gldas_precip": 1.414856896656614,
+    "gldas_soil_moisture": 434.561392416771,
+    "gldas_et": 15.95791889693999,
+    "gldas_air_temp": 20.893969050669913
+  },
+  {
+    "date": "2012-12-01",
+    "year": 2012,
+    "month": 12,
+    "grace_twsa_cm": -2.7221556028626357,
+    "gldas_precip": 18.92738375348896,
+    "gldas_soil_moisture": 428.2867318279221,
+    "gldas_et": 14.828730900112465,
+    "gldas_air_temp": 15.634863741892687
+  },
+  {
+    "date": "2013-01-01",
+    "year": 2013,
+    "month": 1,
+    "grace_twsa_cm": -0.7553054107851953,
+    "gldas_precip": 6.900681890935761,
+    "gldas_soil_moisture": 422.0055008277483,
+    "gldas_et": 19.641621035903743,
+    "gldas_air_temp": 13.574560342058994
+  },
+  {
+    "date": "2013-04-01",
+    "year": 2013,
+    "month": 4,
+    "grace_twsa_cm": -2.201561979903388,
+    "gldas_precip": 41.97157153509104,
+    "gldas_soil_moisture": 419.4502430678906,
+    "gldas_et": 47.80763146006077,
+    "gldas_air_temp": 28.704926555779085
+  },
+  {
+    "date": "2013-05-01",
+    "year": 2013,
+    "month": 5,
+    "grace_twsa_cm": -1.1452134400963296,
+    "gldas_precip": 8.801039473793173,
+    "gldas_soil_moisture": 407.10786868109574,
+    "gldas_et": 23.436841708563225,
+    "gldas_air_temp": 35.36261247255949
+  },
+  {
+    "date": "2013-06-01",
+    "year": 2013,
+    "month": 6,
+    "grace_twsa_cm": -1.3687462878051317,
+    "gldas_precip": 74.84545730895903,
+    "gldas_soil_moisture": 410.11366967233096,
+    "gldas_et": 35.03892898876374,
+    "gldas_air_temp": 38.25696407113801
+  },
+  {
+    "date": "2013-09-01",
+    "year": 2013,
+    "month": 9,
+    "grace_twsa_cm": -1.2032825725490526,
+    "gldas_precip": 25.49821431932977,
+    "gldas_soil_moisture": 477.77315396066456,
+    "gldas_et": 55.75761698343593,
+    "gldas_air_temp": 32.879030575606905
+  },
+  {
+    "date": "2013-10-01",
+    "year": 2013,
+    "month": 10,
+    "grace_twsa_cm": -1.8211350681044456,
+    "gldas_precip": 11.957952628527625,
+    "gldas_soil_moisture": 448.302323036464,
+    "gldas_et": 33.700167760877584,
+    "gldas_air_temp": 28.724428181275822
+  },
+  {
+    "date": "2013-11-01",
+    "year": 2013,
+    "month": 11,
+    "grace_twsa_cm": -3.3194881585438996,
+    "gldas_precip": 9.18538297879911,
+    "gldas_soil_moisture": 433.6941626937096,
+    "gldas_et": 17.819892045684906,
+    "gldas_air_temp": 20.551902727907528
+  },
+  {
+    "date": "2013-12-01",
+    "year": 2013,
+    "month": 12,
+    "grace_twsa_cm": -3.5194151038078156,
+    "gldas_precip": 0.45764315646945797,
+    "gldas_soil_moisture": 420.8309987368375,
+    "gldas_et": 9.514738045078126,
+    "gldas_air_temp": 15.653068378820924
+  },
+  {
+    "date": "2014-02-01",
+    "year": 2014,
+    "month": 2,
+    "grace_twsa_cm": -1.3589380458078002,
+    "gldas_precip": 27.335081417720346,
+    "gldas_soil_moisture": 414.6541578156368,
+    "gldas_et": 27.78322607812006,
+    "gldas_air_temp": 15.193832685749058
+  },
+  {
+    "date": "2014-03-01",
+    "year": 2014,
+    "month": 3,
+    "grace_twsa_cm": -2.9577869537420156,
+    "gldas_precip": 70.4444452363035,
+    "gldas_soil_moisture": 420.9122859096262,
+    "gldas_et": 50.07912338419396,
+    "gldas_air_temp": 20.56051449977985
+  },
+  {
+    "date": "2014-04-01",
+    "year": 2014,
+    "month": 4,
+    "grace_twsa_cm": -0.08902942479296304,
+    "gldas_precip": 40.00794194520529,
+    "gldas_soil_moisture": 415.01204204635826,
+    "gldas_et": 46.56453161990715,
+    "gldas_air_temp": 28.12812188834334
+  },
+  {
+    "date": "2014-05-01",
+    "year": 2014,
+    "month": 5,
+    "grace_twsa_cm": -2.3192009229030446,
+    "gldas_precip": 44.09644412035274,
+    "gldas_soil_moisture": 410.8182281408451,
+    "gldas_et": 40.08400107784223,
+    "gldas_air_temp": 33.51140053864914
+  },
+  {
+    "date": "2014-07-01",
+    "year": 2014,
+    "month": 7,
+    "grace_twsa_cm": -1.6674624323977436,
+    "gldas_precip": 80.72666590153014,
+    "gldas_soil_moisture": 413.11663092931025,
+    "gldas_et": 46.52410090522342,
+    "gldas_air_temp": 37.777280637700905
+  },
+  {
+    "date": "2014-08-01",
+    "year": 2014,
+    "month": 8,
+    "grace_twsa_cm": -1.9955006084876004,
+    "gldas_precip": 54.54934672517491,
+    "gldas_soil_moisture": 439.3996218173408,
+    "gldas_et": 65.68491482999299,
+    "gldas_air_temp": 35.55647891932128
+  },
+  {
+    "date": "2014-09-01",
+    "year": 2014,
+    "month": 9,
+    "grace_twsa_cm": -1.4700120556193763,
+    "gldas_precip": 106.1066012824408,
+    "gldas_soil_moisture": 465.27669991997357,
+    "gldas_et": 65.64415278985348,
+    "gldas_air_temp": 31.893391531105966
+  },
+  {
+    "date": "2014-10-01",
+    "year": 2014,
+    "month": 10,
+    "grace_twsa_cm": -2.489676098013198,
+    "gldas_precip": 16.793297008551395,
+    "gldas_soil_moisture": 440.6772077754682,
+    "gldas_et": 34.25171351300652,
+    "gldas_air_temp": 27.372167257690943
+  },
+  {
+    "date": "2015-01-01",
+    "year": 2015,
+    "month": 1,
+    "grace_twsa_cm": -1.5142635177552852,
+    "gldas_precip": 12.171159496283456,
+    "gldas_soil_moisture": 411.13208224787724,
+    "gldas_et": 16.190898510811785,
+    "gldas_air_temp": 13.91351125986945
+  },
+  {
+    "date": "2015-02-01",
+    "year": 2015,
+    "month": 2,
+    "grace_twsa_cm": -1.2065711935969383,
+    "gldas_precip": 49.74415463371851,
+    "gldas_soil_moisture": 412.3667122797019,
+    "gldas_et": 35.00786202948038,
+    "gldas_air_temp": 18.230040512674332
+  },
+  {
+    "date": "2015-03-01",
+    "year": 2015,
+    "month": 3,
+    "grace_twsa_cm": 2.4802601742341666,
+    "gldas_precip": 101.54000143688064,
+    "gldas_soil_moisture": 426.0480320548135,
+    "gldas_et": 61.13417962570092,
+    "gldas_air_temp": 21.28048243016047
+  },
+  {
+    "date": "2015-04-01",
+    "year": 2015,
+    "month": 4,
+    "grace_twsa_cm": 0.2089435314084373,
+    "gldas_precip": 60.175031716995996,
+    "gldas_soil_moisture": 447.9595793138911,
+    "gldas_et": 65.24916575828532,
+    "gldas_air_temp": 29.892845077485827
+  },
+  {
+    "date": "2015-06-01",
+    "year": 2015,
+    "month": 6,
+    "grace_twsa_cm": 3.7032811752490953,
+    "gldas_precip": 57.09399946602801,
+    "gldas_soil_moisture": 426.43512709727815,
+    "gldas_et": 46.5317789646037,
+    "gldas_air_temp": 37.22328763036516
+  },
+  {
+    "date": "2015-07-01",
+    "year": 2015,
+    "month": 7,
+    "grace_twsa_cm": 7.745162781248574,
+    "gldas_precip": 185.71935761054448,
+    "gldas_soil_moisture": 458.4233281868444,
+    "gldas_et": 80.68996556697358,
+    "gldas_air_temp": 35.93608424213413
+  },
+  {
+    "date": "2015-08-01",
+    "year": 2015,
+    "month": 8,
+    "grace_twsa_cm": 4.960636617310871,
+    "gldas_precip": 113.06387632840637,
+    "gldas_soil_moisture": 530.8299993233878,
+    "gldas_et": 102.58155327116599,
+    "gldas_air_temp": 35.152652553729055
+  },
+  {
+    "date": "2015-12-01",
+    "year": 2015,
+    "month": 12,
+    "grace_twsa_cm": -3.012737635920187,
+    "gldas_precip": 1.7648945354421268,
+    "gldas_soil_moisture": 433.69696485312386,
+    "gldas_et": 12.409276109203944,
+    "gldas_air_temp": 16.1392341968333
+  },
+  {
+    "date": "2016-01-01",
+    "year": 2016,
+    "month": 1,
+    "grace_twsa_cm": 2.1931257139008453,
+    "gldas_precip": 4.663497521825721,
+    "gldas_soil_moisture": 420.7040026968877,
+    "gldas_et": 14.070422973754178,
+    "gldas_air_temp": 15.268652598417393
+  },
+  {
+    "date": "2016-02-01",
+    "year": 2016,
+    "month": 2,
+    "grace_twsa_cm": 1.1330700997290526,
+    "gldas_precip": 3.4835888765407566,
+    "gldas_soil_moisture": 404.75476212576456,
+    "gldas_et": 24.342352848461548,
+    "gldas_air_temp": 18.231255618913384
+  },
+  {
+    "date": "2016-05-01",
+    "year": 2016,
+    "month": 5,
+    "grace_twsa_cm": -1.9222862780252516,
+    "gldas_precip": 10.975039533800281,
+    "gldas_soil_moisture": 383.48503152668474,
+    "gldas_et": 13.109300450268584,
+    "gldas_air_temp": 36.81762277062868
+  },
+  {
+    "date": "2016-06-01",
+    "year": 2016,
+    "month": 6,
+    "grace_twsa_cm": 0.6263578434999751,
+    "gldas_precip": 8.410953278550501,
+    "gldas_soil_moisture": 379.9551596104503,
+    "gldas_et": 8.954421434342564,
+    "gldas_air_temp": 38.93956188266169
+  },
+  {
+    "date": "2016-08-01",
+    "year": 2016,
+    "month": 8,
+    "grace_twsa_cm": -0.5833453905052535,
+    "gldas_precip": 23.743169981771167,
+    "gldas_soil_moisture": 384.3029048616084,
+    "gldas_et": 25.351851403131306,
+    "gldas_air_temp": 35.237765275313635
+  },
+  {
+    "date": "2016-11-01",
+    "year": 2016,
+    "month": 11,
+    "grace_twsa_cm": -8.612102522582282,
+    "gldas_precip": 0.3772627094153811,
+    "gldas_soil_moisture": 363.4430440450574,
+    "gldas_et": 1.9582455131980676,
+    "gldas_air_temp": 22.047980203154026
+  },
+  {
+    "date": "2016-12-01",
+    "year": 2016,
+    "month": 12,
+    "grace_twsa_cm": -9.120120640662801,
+    "gldas_precip": 0.09121526509414453,
+    "gldas_soil_moisture": 361.45564417214734,
+    "gldas_et": 1.44308407215186,
+    "gldas_air_temp": 18.090251970236846
+  },
+  {
+    "date": "2017-01-01",
+    "year": 2017,
+    "month": 1,
+    "grace_twsa_cm": -6.680194060583906,
+    "gldas_precip": 28.897680972648672,
+    "gldas_soil_moisture": 367.7052349867021,
+    "gldas_et": 8.040323880740988,
+    "gldas_air_temp": 13.790187325682256
+  },
+  {
+    "date": "2017-03-01",
+    "year": 2017,
+    "month": 3,
+    "grace_twsa_cm": -9.288207349217075,
+    "gldas_precip": 10.863477880764407,
+    "gldas_soil_moisture": 366.28386149329134,
+    "gldas_et": 17.533306276460944,
+    "gldas_air_temp": 22.80373194543454
+  },
+  {
+    "date": "2017-04-01",
+    "year": 2017,
+    "month": 4,
+    "grace_twsa_cm": -11.045888905533674,
+    "gldas_precip": 21.524611204386513,
+    "gldas_soil_moisture": 363.8822778025092,
+    "gldas_et": 18.826954955238435,
+    "gldas_air_temp": 31.077517708697293
+  },
+  {
+    "date": "2017-05-01",
+    "year": 2017,
+    "month": 5,
+    "grace_twsa_cm": -10.616559907449187,
+    "gldas_precip": 9.491250354951738,
+    "gldas_soil_moisture": 361.03880959300756,
+    "gldas_et": 11.697467721609808,
+    "gldas_air_temp": 36.03089755153587
+  },
+  {
+    "date": "2018-05-01",
+    "year": 2018,
+    "month": 5,
+    "grace_twsa_cm": -18.397915110976705,
+    "gldas_precip": 17.62719030604576,
+    "gldas_soil_moisture": 355.0267429647115,
+    "gldas_et": 17.550035056977134,
+    "gldas_air_temp": 35.67415350800138
+  },
+  {
+    "date": "2018-06-01",
+    "year": 2018,
+    "month": 6,
+    "grace_twsa_cm": -17.987059122071674,
+    "gldas_precip": 48.381667447914495,
+    "gldas_soil_moisture": 358.3926004924357,
+    "gldas_et": 21.027794118476226,
+    "gldas_air_temp": 38.37882830400161
+  },
+  {
+    "date": "2018-10-01",
+    "year": 2018,
+    "month": 10,
+    "grace_twsa_cm": -17.17547579277545,
+    "gldas_precip": 1.520306111462677,
+    "gldas_soil_moisture": 360.8415956264249,
+    "gldas_et": 9.784327560484577,
+    "gldas_air_temp": 27.709110601530853
+  },
+  {
+    "date": "2018-11-01",
+    "year": 2018,
+    "month": 11,
+    "grace_twsa_cm": -19.94678603171758,
+    "gldas_precip": 2.6808744012585293,
+    "gldas_soil_moisture": 356.2658463556227,
+    "gldas_et": 4.3749856487661765,
+    "gldas_air_temp": 22.37047210264414
+  },
+  {
+    "date": "2018-12-01",
+    "year": 2018,
+    "month": 12,
+    "grace_twsa_cm": -19.76651089822116,
+    "gldas_precip": 2.8950950588354716,
+    "gldas_soil_moisture": 354.4447547142383,
+    "gldas_et": 3.6942463454790797,
+    "gldas_air_temp": 16.249873790086433
+  },
+  {
+    "date": "2019-01-01",
+    "year": 2019,
+    "month": 1,
+    "grace_twsa_cm": -16.284912507694216,
+    "gldas_precip": 17.678501454613563,
+    "gldas_soil_moisture": 355.0051170081191,
+    "gldas_et": 6.851171060438897,
+    "gldas_air_temp": 14.137225858474087
+  },
+  {
+    "date": "2019-02-01",
+    "year": 2019,
+    "month": 2,
+    "grace_twsa_cm": -14.31024831795198,
+    "gldas_precip": 45.36930762400146,
+    "gldas_soil_moisture": 372.36211617104794,
+    "gldas_et": 21.803600142976453,
+    "gldas_air_temp": 15.63297031456208
+  },
+  {
+    "date": "2019-03-01",
+    "year": 2019,
+    "month": 3,
+    "grace_twsa_cm": -14.420971129419263,
+    "gldas_precip": 33.74173993484901,
+    "gldas_soil_moisture": 385.93334771930023,
+    "gldas_et": 39.81234154608133,
+    "gldas_air_temp": 20.93762733987946
+  },
+  {
+    "date": "2019-04-01",
+    "year": 2019,
+    "month": 4,
+    "grace_twsa_cm": -14.58540479743099,
+    "gldas_precip": 37.902949809980385,
+    "gldas_soil_moisture": 376.41448716757134,
+    "gldas_et": 33.546932775297975,
+    "gldas_air_temp": 30.805455256492802
+  },
+  {
+    "date": "2019-05-01",
+    "year": 2019,
+    "month": 5,
+    "grace_twsa_cm": -16.625962388617836,
+    "gldas_precip": 30.83677828467672,
+    "gldas_soil_moisture": 376.5729280625114,
+    "gldas_et": 30.191758142063662,
+    "gldas_air_temp": 34.60179762369914
+  },
+  {
+    "date": "2019-06-01",
+    "year": 2019,
+    "month": 6,
+    "grace_twsa_cm": -17.13010971986504,
+    "gldas_precip": 22.23107103516189,
+    "gldas_soil_moisture": 373.95304018312623,
+    "gldas_et": 21.882758929638584,
+    "gldas_air_temp": 38.00459542015454
+  },
+  {
+    "date": "2019-07-01",
+    "year": 2019,
+    "month": 7,
+    "grace_twsa_cm": -13.941649799877617,
+    "gldas_precip": 63.65906841239701,
+    "gldas_soil_moisture": 384.15476149270637,
+    "gldas_et": 39.1540733236832,
+    "gldas_air_temp": 36.82858881153955
+  },
+  {
+    "date": "2019-08-01",
+    "year": 2019,
+    "month": 8,
+    "grace_twsa_cm": -15.6790577922416,
+    "gldas_precip": 55.32306000703601,
+    "gldas_soil_moisture": 400.0328405256755,
+    "gldas_et": 55.57933346691765,
+    "gldas_air_temp": 35.21054390864676
+  },
+  {
+    "date": "2019-09-01",
+    "year": 2019,
+    "month": 9,
+    "grace_twsa_cm": -16.074017630186137,
+    "gldas_precip": 19.84710733479392,
+    "gldas_soil_moisture": 382.2246198835944,
+    "gldas_et": 29.55998086065847,
+    "gldas_air_temp": 34.2461148518408
+  },
+  {
+    "date": "2019-10-01",
+    "year": 2019,
+    "month": 10,
+    "grace_twsa_cm": -16.61954188538577,
+    "gldas_precip": 11.378545336699663,
+    "gldas_soil_moisture": 374.7983242165476,
+    "gldas_et": 20.306256787629245,
+    "gldas_air_temp": 28.059275098117045
+  },
+  {
+    "date": "2019-11-01",
+    "year": 2019,
+    "month": 11,
+    "grace_twsa_cm": -15.179987208170582,
+    "gldas_precip": 16.34553969038003,
+    "gldas_soil_moisture": 371.95356087922,
+    "gldas_et": 12.385001467663878,
+    "gldas_air_temp": 21.371946812726762
+  },
+  {
+    "date": "2019-12-01",
+    "year": 2019,
+    "month": 12,
+    "grace_twsa_cm": -12.895076356267412,
+    "gldas_precip": 11.343265653808926,
+    "gldas_soil_moisture": 373.4232092113595,
+    "gldas_et": 8.696660282957854,
+    "gldas_air_temp": 15.241861782723676
+  },
+  {
+    "date": "2020-01-01",
+    "year": 2020,
+    "month": 1,
+    "grace_twsa_cm": -12.236599064815929,
+    "gldas_precip": 34.13980929766832,
+    "gldas_soil_moisture": 428.7645198704674,
+    "gldas_et": 22.666716047747105,
+    "gldas_air_temp": 12.98174119079592
+  },
+  {
+    "date": "2020-02-01",
+    "year": 2020,
+    "month": 2,
+    "grace_twsa_cm": -12.02223550612862,
+    "gldas_precip": 15.431849791721433,
+    "gldas_soil_moisture": 424.53709400732225,
+    "gldas_et": 35.85493412740333,
+    "gldas_air_temp": 17.785937583472208
+  },
+  {
+    "date": "2020-03-01",
+    "year": 2020,
+    "month": 3,
+    "grace_twsa_cm": -10.995217919077454,
+    "gldas_precip": 107.58729757709017,
+    "gldas_soil_moisture": 430.23706175453816,
+    "gldas_et": 59.141337181143776,
+    "gldas_air_temp": 20.30408679913378
+  },
+  {
+    "date": "2020-04-01",
+    "year": 2020,
+    "month": 4,
+    "grace_twsa_cm": -12.372027739550257,
+    "gldas_precip": 42.2522866452078,
+    "gldas_soil_moisture": 444.32970654388157,
+    "gldas_et": 60.991351135965836,
+    "gldas_air_temp": 28.387016461205757
+  },
+  {
+    "date": "2020-05-01",
+    "year": 2020,
+    "month": 5,
+    "grace_twsa_cm": -14.828411117561545,
+    "gldas_precip": 34.025658722178036,
+    "gldas_soil_moisture": 431.4945115627573,
+    "gldas_et": 43.54056975043877,
+    "gldas_air_temp": 33.9573777638254
+  },
+  {
+    "date": "2020-06-01",
+    "year": 2020,
+    "month": 6,
+    "grace_twsa_cm": -14.694981035838742,
+    "gldas_precip": 41.86446834195066,
+    "gldas_soil_moisture": 419.6270938853307,
+    "gldas_et": 25.326900231850907,
+    "gldas_air_temp": 37.6464437762259
+  },
+  {
+    "date": "2020-07-01",
+    "year": 2020,
+    "month": 7,
+    "grace_twsa_cm": -13.190084754555915,
+    "gldas_precip": 86.00869479126972,
+    "gldas_soil_moisture": 439.74483721844615,
+    "gldas_et": 69.22257937642104,
+    "gldas_air_temp": 37.395193105434316
+  },
+  {
+    "date": "2020-08-01",
+    "year": 2020,
+    "month": 8,
+    "grace_twsa_cm": -10.107684287471718,
+    "gldas_precip": 155.31432357173435,
+    "gldas_soil_moisture": 464.0289794689888,
+    "gldas_et": 89.02825549798952,
+    "gldas_air_temp": 35.19743942795987
+  },
+  {
+    "date": "2020-09-01",
+    "year": 2020,
+    "month": 9,
+    "grace_twsa_cm": -15.343102899947121,
+    "gldas_precip": 37.03096623310605,
+    "gldas_soil_moisture": 482.09310168817774,
+    "gldas_et": 68.499369928846,
+    "gldas_air_temp": 32.95487871888608
+  },
+  {
+    "date": "2020-10-01",
+    "year": 2020,
+    "month": 10,
+    "grace_twsa_cm": -16.76307940217981,
+    "gldas_precip": 0.016011392812168342,
+    "gldas_soil_moisture": 435.79247344454416,
+    "gldas_et": 25.699021331362196,
+    "gldas_air_temp": 27.50017401202668
+  },
+  {
+    "date": "2020-11-01",
+    "year": 2020,
+    "month": 11,
+    "grace_twsa_cm": -16.132866175073723,
+    "gldas_precip": 16.24830786785912,
+    "gldas_soil_moisture": 423.347285474419,
+    "gldas_et": 14.54775966865566,
+    "gldas_air_temp": 19.73017988761685
+  },
+  {
+    "date": "2020-12-01",
+    "year": 2020,
+    "month": 12,
+    "grace_twsa_cm": -16.6187776950261,
+    "gldas_precip": 5.983167093500496,
+    "gldas_soil_moisture": 418.8053295776506,
+    "gldas_et": 11.9165240707396,
+    "gldas_air_temp": 15.77080572079266
+  },
+  {
+    "date": "2021-01-01",
+    "year": 2021,
+    "month": 1,
+    "grace_twsa_cm": -17.789877418327592,
+    "gldas_precip": 15.100203923911538,
+    "gldas_soil_moisture": 414.00414398009457,
+    "gldas_et": 17.680334050141607,
+    "gldas_air_temp": 14.637103002132044
+  },
+  {
+    "date": "2021-02-01",
+    "year": 2021,
+    "month": 2,
+    "grace_twsa_cm": -18.164290837492207,
+    "gldas_precip": 1.8410760786564873,
+    "gldas_soil_moisture": 399.6400222828256,
+    "gldas_et": 23.755037683353326,
+    "gldas_air_temp": 19.822699320477906
+  },
+  {
+    "date": "2021-03-01",
+    "year": 2021,
+    "month": 3,
+    "grace_twsa_cm": -17.831326212462827,
+    "gldas_precip": 34.980633081582724,
+    "gldas_soil_moisture": 386.6215194548168,
+    "gldas_et": 35.48328559775897,
+    "gldas_air_temp": 24.53222411436973
+  },
+  {
+    "date": "2021-04-01",
+    "year": 2021,
+    "month": 4,
+    "grace_twsa_cm": -18.2834717345482,
+    "gldas_precip": 27.218252955001642,
+    "gldas_soil_moisture": 382.3341014930716,
+    "gldas_et": 28.57097282911457,
+    "gldas_air_temp": 28.415999895134373
+  },
+  {
+    "date": "2021-05-01",
+    "year": 2021,
+    "month": 5,
+    "grace_twsa_cm": -19.64713633496897,
+    "gldas_precip": 32.17970114970602,
+    "gldas_soil_moisture": 385.7052450716435,
+    "gldas_et": 30.28020380357191,
+    "gldas_air_temp": 33.651045016631535
+  },
+  {
+    "date": "2021-06-01",
+    "year": 2021,
+    "month": 6,
+    "grace_twsa_cm": -19.90871435751289,
+    "gldas_precip": 33.82744300176859,
+    "gldas_soil_moisture": 386.77060264749775,
+    "gldas_et": 30.23847681524818,
+    "gldas_air_temp": 36.62049377062708
+  },
+  {
+    "date": "2021-07-01",
+    "year": 2021,
+    "month": 7,
+    "grace_twsa_cm": -17.814591310599745,
+    "gldas_precip": 98.00749397416956,
+    "gldas_soil_moisture": 401.5707319210542,
+    "gldas_et": 47.64412867536751,
+    "gldas_air_temp": 36.411021276297596
+  },
+  {
+    "date": "2021-08-01",
+    "year": 2021,
+    "month": 8,
+    "grace_twsa_cm": -18.331498611971675,
+    "gldas_precip": 42.342286883958245,
+    "gldas_soil_moisture": 423.9248589869934,
+    "gldas_et": 58.75306476617323,
+    "gldas_air_temp": 35.293911231124326
+  },
+  {
+    "date": "2021-09-01",
+    "year": 2021,
+    "month": 9,
+    "grace_twsa_cm": -20.569028269143402,
+    "gldas_precip": 72.52826753152816,
+    "gldas_soil_moisture": 422.7649765577813,
+    "gldas_et": 53.94312487924987,
+    "gldas_air_temp": 32.870499520158894
+  },
+  {
+    "date": "2021-10-01",
+    "year": 2021,
+    "month": 10,
+    "grace_twsa_cm": -21.110692324272815,
+    "gldas_precip": 21.67357948494405,
+    "gldas_soil_moisture": 414.3416317205706,
+    "gldas_et": 35.22589352114143,
+    "gldas_air_temp": 28.31211153522887
+  },
+  {
+    "date": "2021-11-01",
+    "year": 2021,
+    "month": 11,
+    "grace_twsa_cm": -23.263300121383054,
+    "gldas_precip": 0.2150119169593109,
+    "gldas_soil_moisture": 400.0161444736819,
+    "gldas_et": 12.218469214257134,
+    "gldas_air_temp": 21.918737617522723
+  },
+  {
+    "date": "2021-12-01",
+    "year": 2021,
+    "month": 12,
+    "grace_twsa_cm": -19.082443605437383,
+    "gldas_precip": 8.854734286127458,
+    "gldas_soil_moisture": 392.5703907852719,
+    "gldas_et": 8.55814581105654,
+    "gldas_air_temp": 16.083474329155866
+  },
+  {
+    "date": "2022-01-01",
+    "year": 2022,
+    "month": 1,
+    "grace_twsa_cm": -20.652379973833696,
+    "gldas_precip": 62.55844016179751,
+    "gldas_soil_moisture": 430.2407850606868,
+    "gldas_et": 24.752305858803496,
+    "gldas_air_temp": 14.138933622841565
+  },
+  {
+    "date": "2022-02-01",
+    "year": 2022,
+    "month": 2,
+    "grace_twsa_cm": -21.266012291259596,
+    "gldas_precip": 12.23564962840993,
+    "gldas_soil_moisture": 415.7043220225046,
+    "gldas_et": 33.1065084755789,
+    "gldas_air_temp": 16.99187198796878
+  },
+  {
+    "date": "2022-03-01",
+    "year": 2022,
+    "month": 3,
+    "grace_twsa_cm": -23.095422988163687,
+    "gldas_precip": 10.8551818305197,
+    "gldas_soil_moisture": 391.346996590437,
+    "gldas_et": 39.2669765705841,
+    "gldas_air_temp": 26.394156221542307
+  },
+  {
+    "date": "2022-04-01",
+    "year": 2022,
+    "month": 4,
+    "grace_twsa_cm": -24.534522149529074,
+    "gldas_precip": 10.370596379770676,
+    "gldas_soil_moisture": 370.2224222195328,
+    "gldas_et": 20.16703669675779,
+    "gldas_air_temp": 32.85266724328429
+  },
+  {
+    "date": "2022-05-01",
+    "year": 2022,
+    "month": 5,
+    "grace_twsa_cm": -24.636654334361957,
+    "gldas_precip": 11.345801265993925,
+    "gldas_soil_moisture": 364.21123224255405,
+    "gldas_et": 12.187108269838717,
+    "gldas_air_temp": 36.14902095149816
+  },
+  {
+    "date": "2022-06-01",
+    "year": 2022,
+    "month": 6,
+    "grace_twsa_cm": -21.632017559712992,
+    "gldas_precip": 55.21032534865322,
+    "gldas_soil_moisture": 373.9762189570119,
+    "gldas_et": 29.068799075445735,
+    "gldas_air_temp": 36.620204256310785
+  },
+  {
+    "date": "2022-07-01",
+    "year": 2022,
+    "month": 7,
+    "grace_twsa_cm": -11.297898902542217,
+    "gldas_precip": 255.82832266593428,
+    "gldas_soil_moisture": 465.9657724073461,
+    "gldas_et": 88.82010171362477,
+    "gldas_air_temp": 33.54424036573563
+  },
+  {
+    "date": "2022-08-01",
+    "year": 2022,
+    "month": 8,
+    "grace_twsa_cm": -13.648150665559186,
+    "gldas_precip": 152.01575296949068,
+    "gldas_soil_moisture": 561.8579270859249,
+    "gldas_et": 110.6605568745065,
+    "gldas_air_temp": 31.974359964808286
+  },
+  {
+    "date": "2022-09-01",
+    "year": 2022,
+    "month": 9,
+    "grace_twsa_cm": -17.934256070196664,
+    "gldas_precip": 36.92835677436102,
+    "gldas_soil_moisture": 527.7182014190552,
+    "gldas_et": 77.36325182016839,
+    "gldas_air_temp": 31.98758018506231
+  },
+  {
+    "date": "2022-10-01",
+    "year": 2022,
+    "month": 10,
+    "grace_twsa_cm": -18.11850609324036,
+    "gldas_precip": 4.237456956790873,
+    "gldas_soil_moisture": 477.5338184698664,
+    "gldas_et": 37.96874269724313,
+    "gldas_air_temp": 27.754399112171644
+  },
+  {
+    "date": "2022-11-01",
+    "year": 2022,
+    "month": 11,
+    "grace_twsa_cm": -19.518719946062138,
+    "gldas_precip": 15.27293729143716,
+    "gldas_soil_moisture": 459.5985174436812,
+    "gldas_et": 20.8176195052145,
+    "gldas_air_temp": 21.71387872791336
+  },
+  {
+    "date": "2022-12-01",
+    "year": 2022,
+    "month": 12,
+    "grace_twsa_cm": -17.113626191873752,
+    "gldas_precip": 2.314495350287576,
+    "gldas_soil_moisture": 445.41293743450206,
+    "gldas_et": 12.395311550025328,
+    "gldas_air_temp": 17.14666649232837
+  },
+  {
+    "date": "2023-01-01",
+    "year": 2023,
+    "month": 1,
+    "grace_twsa_cm": -15.758718968013284,
+    "gldas_precip": 17.090533336686033,
+    "gldas_soil_moisture": 438.3048155664199,
+    "gldas_et": 18.96324028564715,
+    "gldas_air_temp": 13.372574559347305
+  },
+  {
+    "date": "2023-02-01",
+    "year": 2023,
+    "month": 2,
+    "grace_twsa_cm": -17.35973527711591,
+    "gldas_precip": 8.958959949556219,
+    "gldas_soil_moisture": 422.70073459259726,
+    "gldas_et": 27.5042710035274,
+    "gldas_air_temp": 19.885885072910835
+  },
+  {
+    "date": "2023-03-01",
+    "year": 2023,
+    "month": 3,
+    "grace_twsa_cm": -16.897231616996397,
+    "gldas_precip": 53.39651714780889,
+    "gldas_soil_moisture": 413.9611395991595,
+    "gldas_et": 45.87788103136658,
+    "gldas_air_temp": 22.95227557410928
+  },
+  {
+    "date": "2023-04-01",
+    "year": 2023,
+    "month": 4,
+    "grace_twsa_cm": -18.46563444311438,
+    "gldas_precip": 37.321789675084666,
+    "gldas_soil_moisture": 415.76434429996465,
+    "gldas_et": 43.51227006241472,
+    "gldas_air_temp": 27.96724503705437
+  },
+  {
+    "date": "2023-05-01",
+    "year": 2023,
+    "month": 5,
+    "grace_twsa_cm": -17.82906858707649,
+    "gldas_precip": 69.72838063900996,
+    "gldas_soil_moisture": 415.34079171914385,
+    "gldas_et": 43.17145076763245,
+    "gldas_air_temp": 31.744666203623026
+  },
+  {
+    "date": "2023-06-01",
+    "year": 2023,
+    "month": 6,
+    "grace_twsa_cm": -15.663653365842492,
+    "gldas_precip": 72.83091473900787,
+    "gldas_soil_moisture": 440.1355778517658,
+    "gldas_et": 51.34127361841921,
+    "gldas_air_temp": 35.98075058758237
+  },
+  {
+    "date": "2023-07-01",
+    "year": 2023,
+    "month": 7,
+    "grace_twsa_cm": -13.002548905206513,
+    "gldas_precip": 190.49774913981744,
+    "gldas_soil_moisture": 486.1500765411508,
+    "gldas_et": 82.9208029572192,
+    "gldas_air_temp": 34.75091167564453
+  },
+  {
+    "date": "2023-08-01",
+    "year": 2023,
+    "month": 8,
+    "grace_twsa_cm": -16.744165309029928,
+    "gldas_precip": 28.66681956059787,
+    "gldas_soil_moisture": 513.4920844689779,
+    "gldas_et": 75.21655806582709,
+    "gldas_air_temp": 35.36214771345642
+  },
+  {
+    "date": "2023-09-01",
+    "year": 2023,
+    "month": 9,
+    "grace_twsa_cm": -19.10973084547474,
+    "gldas_precip": 42.003570658641266,
+    "gldas_soil_moisture": 472.2915530041868,
+    "gldas_et": 58.10698282005821,
+    "gldas_air_temp": 33.187176421698084
+  },
+  {
+    "date": "2023-10-01",
+    "year": 2023,
+    "month": 10,
+    "grace_twsa_cm": -19.28048625559681,
+    "gldas_precip": 24.829688587426215,
+    "gldas_soil_moisture": 453.90948608125325,
+    "gldas_et": 39.44415155983943,
+    "gldas_air_temp": 28.04648026786047
+  },
+  {
+    "date": "2023-11-01",
+    "year": 2023,
+    "month": 11,
+    "grace_twsa_cm": -19.244914668639296,
+    "gldas_precip": 14.429837683183083,
+    "gldas_soil_moisture": 439.01607999259915,
+    "gldas_et": 18.232953120809547,
+    "gldas_air_temp": 22.56049599871549
+  },
+  {
+    "date": "2023-12-01",
+    "year": 2023,
+    "month": 12,
+    "grace_twsa_cm": -20.727993257624817,
+    "gldas_precip": 1.468035904967129,
+    "gldas_soil_moisture": 431.4013335593858,
+    "gldas_et": 13.851674100273629,
+    "gldas_air_temp": 17.663433526802272
+  },
+  {
+    "date": "2024-01-01",
+    "year": 2024,
+    "month": 1,
+    "grace_twsa_cm": -19.9571348550525,
+    "gldas_precip": 4.387446815110578,
+    "gldas_soil_moisture": 420.01279775993703,
+    "gldas_et": 12.781585836325492,
+    "gldas_air_temp": 14.579961488880004
+  },
+  {
+    "date": "2024-02-01",
+    "year": 2024,
+    "month": 2,
+    "grace_twsa_cm": -17.17840499236188,
+    "gldas_precip": 27.246587780686838,
+    "gldas_soil_moisture": 411.46019150159725,
+    "gldas_et": 32.10822691061146,
+    "gldas_air_temp": 16.69920111650515
+  },
+  {
+    "date": "2024-03-01",
+    "year": 2024,
+    "month": 3,
+    "grace_twsa_cm": -17.630867440074187,
+    "gldas_precip": 39.641336080368426,
+    "gldas_soil_moisture": 401.50156805587585,
+    "gldas_et": 40.67533527970932,
+    "gldas_air_temp": 22.160862313993217
+  },
+  {
+    "date": "2024-04-01",
+    "year": 2024,
+    "month": 4,
+    "grace_twsa_cm": -17.245689875560807,
+    "gldas_precip": 54.71012222476298,
+    "gldas_soil_moisture": 407.47700593747004,
+    "gldas_et": 45.05149414422627,
+    "gldas_air_temp": 27.717049567657618
+  },
+  {
+    "date": "2024-05-01",
+    "year": 2024,
+    "month": 5,
+    "grace_twsa_cm": -19.251149547530922,
+    "gldas_precip": 6.174022940264707,
+    "gldas_soil_moisture": 403.63703750158794,
+    "gldas_et": 20.65025794724671,
+    "gldas_air_temp": 36.143749895659965
+  },
+  {
+    "date": "2024-06-01",
+    "year": 2024,
+    "month": 6,
+    "grace_twsa_cm": -19.60231686475412,
+    "gldas_precip": 26.68138108107353,
+    "gldas_soil_moisture": 399.3985329535025,
+    "gldas_et": 20.42889446288616,
+    "gldas_air_temp": 38.00708072696669
+  },
+  {
+    "date": "2024-07-01",
+    "year": 2024,
+    "month": 7,
+    "grace_twsa_cm": -16.494207269419167,
+    "gldas_precip": 115.68530100436465,
+    "gldas_soil_moisture": 421.0028431356749,
+    "gldas_et": 63.34792548785972,
+    "gldas_air_temp": 37.822597969425374
+  },
+  {
+    "date": "2024-08-01",
+    "year": 2024,
+    "month": 8,
+    "grace_twsa_cm": -15.014429212911276,
+    "gldas_precip": 205.02672482362968,
+    "gldas_soil_moisture": 504.22666236518074,
+    "gldas_et": 111.55877945963672,
+    "gldas_air_temp": 32.86149949064994
+  },
+  {
+    "date": "2024-09-01",
+    "year": 2024,
+    "month": 9,
+    "grace_twsa_cm": -17.83621711041421,
+    "gldas_precip": 49.367112202135274,
+    "gldas_soil_moisture": 506.8610376901341,
+    "gldas_et": 77.6577618119044,
+    "gldas_air_temp": 33.217854575922615
+  }
+]

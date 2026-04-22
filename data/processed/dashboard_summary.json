@@ -1,0 +1,7 @@
+{
+  "source": "PIPELINE_PLACEHOLDER",
+  "primary_signal": "Punjab-scale TWS anomaly from GRACE/GRACE-FO",
+  "context_signal": "Same-month GLDAS support data",
+  "update_mode": "Monthly sync paced by new GRACE availability",
+  "latest_processed_month": "2024-12"
+}

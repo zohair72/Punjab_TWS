@@ -1,0 +1,10 @@
+{
+  "latest_grace_month": "2024-09",
+  "row_count": 227,
+  "last_synced_at": "2026-04-22T08:15:09+00:00",
+  "datasets_used": [
+    "NASA/GRACE/MASS_GRIDS_V04/MASCON",
+    "NASA/GLDAS/V021/NOAH/G025/T3H"
+  ],
+  "boundary_path": "D:\\Punjab TWS\\data\\boundaries\\punjab_boundaries\\Punjab_Provincial_Boundary.geojson"
+}

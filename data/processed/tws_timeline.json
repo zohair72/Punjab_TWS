@@ -1,0 +1,14 @@
+{
+  "source": "GRACE_PLACEHOLDER",
+  "series_name": "Punjab-scale TWS anomaly",
+  "unit": "cm",
+  "records": [
+    {
+      "month": "2024-12",
+      "source": "GRACE_PLACEHOLDER",
+      "value": null,
+      "unit": "cm",
+      "notes": "Replace with Earth Engine-derived Punjab-scale TWS anomaly."
+    }
+  ]
+}

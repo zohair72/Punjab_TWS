@@ -1,0 +1,12 @@
+{
+  "source": "GLDAS_PLACEHOLDER",
+  "records": [
+    {
+      "month": "2024-12",
+      "source": "GLDAS_PLACEHOLDER",
+      "value": null,
+      "unit": "context",
+      "notes": "Replace with Punjab-wide contextual GLDAS summary metrics."
+    }
+  ]
+}

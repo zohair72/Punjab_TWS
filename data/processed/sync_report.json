@@ -1,0 +1,15 @@
+{
+  "status": "placeholder_complete",
+  "pacing_dataset": "GRACE/GRACE-FO",
+  "latest_processed_month": "2024-12",
+  "matching_context_dataset": "GLDAS",
+  "artifacts": {
+    "tws_timeline": "tws_timeline.json",
+    "gldas_context": "gldas_context.json",
+    "dashboard_summary": "dashboard_summary.json"
+  },
+  "notes": [
+    "This is scaffolding only.",
+    "Add Earth Engine availability checks in the next implementation step."
+  ]
+}
