@@ -55,8 +55,54 @@ const apiBaseUrl =
 
 const apiClient = axios.create({
   baseURL: apiBaseUrl,
-  timeout: 15000
+  timeout: 45000
 });
+
+const healthClient = axios.create({
+  baseURL: apiBaseUrl,
+  timeout: 25000
+});
+
+function delay(milliseconds: number) {
+  return new Promise((resolve) => {
+    window.setTimeout(resolve, milliseconds);
+  });
+}
+
+function isRetryableWarmupError(error: unknown) {
+  if (!axios.isAxiosError(error)) {
+    return false;
+  }
+
+  if (error.code === "ECONNABORTED") {
+    return true;
+  }
+
+  return !error.response;
+}
+
+export async function waitForBackendWakeup() {
+  const retryDelays = [0, 4000, 8000];
+  let lastError: unknown;
+
+  for (const retryDelay of retryDelays) {
+    if (retryDelay > 0) {
+      await delay(retryDelay);
+    }
+
+    try {
+      await healthClient.get("/health");
+      return;
+    } catch (error) {
+      lastError = error;
+      if (!isRetryableWarmupError(error)) {
+        throw error;
+      }
+    }
+  }
+
+  throw lastError;
+}
 
 export async function fetchTimeline() {
   const response = await apiClient.get<TimelineItem[]>("/api/timeline");

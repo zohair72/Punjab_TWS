@@ -16,6 +16,7 @@ import {
   fetchTimeline,
   fetchTimeseries,
   refreshSummaryCache,
+  waitForBackendWakeup,
   type MethodologyResponse,
   type MonthlySummaryRecord,
   type SummaryStats,
@@ -71,6 +72,8 @@ export function DashboardDataProvider({ children }: PropsWithChildren) {
     setDashboardError(null);
 
     try {
+      await waitForBackendWakeup();
+
       const [timelineData, latestData, timeseriesData, methodologyData, statsData] =
         await Promise.all([
           fetchTimeline(),
@@ -197,4 +200,3 @@ export function useDashboardData() {
   }
   return context;
 }
-

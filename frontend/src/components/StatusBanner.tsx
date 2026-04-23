@@ -12,7 +12,7 @@ function StatusBanner() {
         </p>
         <p className="mt-3 text-base text-cream/90">
           {loading
-            ? "Loading dashboard data from the FastAPI backend..."
+            ? "Loading dashboard data from the FastAPI backend. The first visit can take a little longer while Render wakes up."
             : dashboardError
               ? dashboardError
               : `Serving ${timeline.length} stored Punjab-wide monthly records from the backend.`}
@@ -46,4 +46,3 @@ function StatusBanner() {
 }
 
 export default StatusBanner;
-
